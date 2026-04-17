@@ -1,4 +1,4 @@
-# Banking Management System (py)
+# Banking Management System (bankms-py)
 
 A **Python-based multi-user banking system** that allows users to perform basic banking operations through a console interface.  
 This project demonstrates file handling, authentication, and transaction management.
