@@ -30,9 +30,9 @@ This project demonstrates file handling, authentication, and transaction managem
 
 ## Project Structure
 
-- `code.py` → Main program
-- `bank_sample.txt` → Sample data file
-- `report.pdf` → Project documentation (optional)
+- `code.py` - Main program
+- `bank_sample.txt` - Sample data file
+- `report.pdf` - Project documentation (optional)
 
 ---
 
